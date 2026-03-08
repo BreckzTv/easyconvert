@@ -2,7 +2,7 @@
 
 Ein einfaches Webtool zum Konvertieren von Dateien direkt im Browser.
 
-🌐 **Live Demo:** [https://BreckzTv.github.io/easyconvert/](https://BreckzTv.github.io/easyconvert/)
+🌐 **Webseite:** (https://breckztv-converter.netlify.app/)
 
 ## Features
 - HTML + JS only
